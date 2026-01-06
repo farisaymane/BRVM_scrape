@@ -348,8 +348,8 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 **Faris TOGUYENI**
 
-🎓 Étudiant en Génie Mécanique – Concentration Mécatronique  
-🏫 Université du Québec à Trois-Rivières (UQTR)
+ Étudiant en Génie Mécanique – Concentration Mécatronique  
+ Université du Québec à Trois-Rivières (UQTR)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faris-toguyeni-54b26a34a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farisaymane)
@@ -358,17 +358,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 </div>
 
 ---
-
-## ⭐ Support
-
-Si ce projet vous a été utile, n'hésitez pas à lui donner une ⭐ sur GitHub !
-
----
-
-<div align="center">
-
-**Fait avec ❤️ au Québec 🍁**
-
-*Projet personnel démontrant l'automatisation, le web scraping et le développement d'interfaces graphiques*
-
-</div>

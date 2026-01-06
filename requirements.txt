@@ -1,0 +1,18 @@
+# BRVM Data Extractor - Dependencies
+# Python 3.8+ required
+# Install with: pip install -r requirements.txt
+
+# Web Automation
+selenium>=4.8.0
+
+# Data Processing
+pandas>=1.5.0
+
+# Excel Export
+openpyxl>=3.0.0
+
+# Date Utilities
+python-dateutil>=2.8.0
+
+# Optional: Auto-install ChromeDriver
+# chromedriver-autoinstaller>=0.6.0
